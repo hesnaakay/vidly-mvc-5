@@ -71,3 +71,12 @@ C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\bin\System.Net.
 C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\bin\System.Web.Http.xml
 C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
 C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\bin\Glimpse.Ado.dll
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\bin\Glimpse.AspNet.dll
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\bin\Glimpse.Core.dll
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\bin\Glimpse.EF6.dll
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+C:\Users\Hesna\documents\visual studio 2013\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
